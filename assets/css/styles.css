@@ -185,7 +185,7 @@ img {
   display: flex;
   flex-direction: column;
   font-size: var(--smaller-font-size);
-  color: --text-color-light;
+  color: var(--text-color-light) !important;
   font-weight: var(--font-medium);
 }
 
